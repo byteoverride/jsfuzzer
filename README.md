@@ -15,6 +15,8 @@
 - ✅ Custom regex support with `-regex`  
 - ✅ Add custom HTTP headers (e.g., Authorization)  
 - ✅ Prepend base URLs to relative endpoints  
+- ✅ Return Email Adress
+- ✅ Seaarch for 3rd party links (Google API, Stripe, Sentry, etc)  
 - ✅ Output to file or stdout  
 - ✅ Fully deduplicated output, easy to pipe to `anew`, `notify`, etc.  
 
